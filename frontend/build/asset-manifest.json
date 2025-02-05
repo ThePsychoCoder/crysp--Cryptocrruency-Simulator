@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9bcf397.css",
+    "main.js": "/static/js/main.9ae4f846.js",
+    "static/media/logo.png": "/static/media/logo.14cb4c1c43f27e883a4e.png",
+    "static/media/pageNotFound.svg": "/static/media/pageNotFound.757ed2fba8f3d0dd537ddb0d951983ba.svg",
+    "static/media/portfolio.svg": "/static/media/portfolio.14f706447e7392ccfc8b5fae264d3aa4.svg",
+    "static/media/bch_logo.svg": "/static/media/bch_logo.3d827ad27ba9fd9b348e70223023d1fd.svg",
+    "static/media/avatar.svg": "/static/media/avatar.9c72dcbb0f7997a1b55af3cdb21f3b01.svg",
+    "static/media/btc_logo.svg": "/static/media/btc_logo.d9ca5ad50e4d5c15b29840843752e622.svg",
+    "static/media/wave.svg": "/static/media/wave.1e4247b0e7773f06af37e50949160dbc.svg",
+    "static/media/xtz_logo.svg": "/static/media/xtz_logo.fa5230cb1d93b33b7e01cd2400e4b266.svg",
+    "static/media/bsv_logo.svg": "/static/media/bsv_logo.83706dfee677a078b8b3c281fb616891.svg",
+    "index.html": "/index.html",
+    "static/media/eth_logo.svg": "/static/media/eth_logo.11858923e2328b0c191f499183940ae8.svg",
+    "static/media/ltc_logo.svg": "/static/media/ltc_logo.6bcd978cdfa87575b8231253cc9871be.svg",
+    "static/media/usdt_logo.svg": "/static/media/usdt_logo.7d7f03c4c4889e5c77da9793b9dfa6ef.svg",
+    "static/media/xrp_logo.svg": "/static/media/xrp_logo.17f8a51d016593f18b3ff7ff31d0299b.svg",
+    "static/media/bnb_logo.svg": "/static/media/bnb_logo.d246cd685ee3f7dffe2b13cb422cdf0d.svg",
+    "static/media/eos_logo.svg": "/static/media/eos_logo.7b4c3701a96e190dd6cac5b8bf0a68e7.svg",
+    "main.a9bcf397.css.map": "/static/css/main.a9bcf397.css.map",
+    "main.9ae4f846.js.map": "/static/js/main.9ae4f846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9bcf397.css",
+    "static/js/main.9ae4f846.js"
+  ]
+}
